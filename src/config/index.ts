@@ -1,0 +1,1 @@
+export { BotOptions } from './ClientOptions';

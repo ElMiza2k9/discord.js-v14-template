@@ -44,7 +44,7 @@
     "baseUrl": "./src"
   },
   "exclude": ["node_modules", "**/*.spec.ts"],
-  "include": ["src"],
+  "include": ["src", "environment.d.ts"],
   "ts-node": {
     "require": ["tsconfig-paths/register"]
   }
